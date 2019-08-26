@@ -16,18 +16,19 @@ The number 12 is an even number!
 The number 5 is an odd number!
 ```
 ### Problem 4
-*Create a function for the challenge that you call from your ```main``` 
-*Create a *second* function that takes NO parameters 
-*Create a *third* function that takes a single greeting parameter (ex. ```Howdy```) and returns a string using the passed in greeting and 'World' (ex. ```Howdy World!```)
-
-From your *first* function, call the function(s) and print out the final result returned
+* Create a function for the challenge that you call from your ```main``` 
+* Create a *second* function that takes NO parameters 
+* Create a *third* function that takes a single greeting parameter (ex. ```Howdy```) and returns a string using the passed in greeting and 'World' (ex. ```Howdy World!```)
+* From your *first* function, call the function(s) and print out the final result returned
 
 ### Problem 5:
 ##### We will keep having this problem until EVERYONE gets it right without help
 Create a function that has a loop that quits with ‘q’. If the user doesn't enter 'q', ask them to input another string.
 
 ### Challenge
-Create a function that accepts 2 numbers. When the function is called return the sum, difference, product, and quotient as 4 separate return values. Print the 4 results that are returned using f-strings.
+Create a function that accepts 2 numbers. When the function is called return the sum, difference, product, and quotient as 4 separate return values. 
+
+Print the 4 results that are returned using f-strings.
 
 Example: If 2 and 6 are passed into the function, output should be similar to the following:
 
